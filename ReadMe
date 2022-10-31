@@ -1,0 +1,35 @@
+This is very file will help you to update your linux system like macBook
+
+Step 1: Download themes from gitgub and install one by one. Extract them and then in main folder there is bash file to install themes to run them type command: ./install.sh  (for each file seperatly)
+      https://github.com/vinceliuice/WhiteSur-gtk-theme
+      https://github.com/vinceliuice/WhiteSur-icon-theme
+      https://github.com/vinceliuice/WhiteSur-cursors
+      
+Step 2: Donwload the Google chrome browser to integrate with gnome
+Step 3: Install gnome extension on chrome Browser
+Step 4: Run this bash file give: gnome.sh
+
+Step 5: Search for tweaks in your applications. Open tweaks and under Extensions tab enable user Theme. 
+Step 6:  In tweaks, in Appearance tab you have option to select installed themes. select the theme we have
+        just install corresponding to shell, cursor and icons themes.
+        
+Finally, Your system is like macBook. If still not, Restart your system.
+
+
+If you want to further customize your system. Access Gnome extensions and isntall extensions do you like just with single click.
+        https://extensions.gnome.org/
+        
+
+Some famous and attractive gnome extesions
+Dash to dock
+unity
+compiz alike magic lamp effect
+Gsconnect
+Media controls
+Open weather
+Net speed simplified
+Time in date menu
+
+
+      
+      
