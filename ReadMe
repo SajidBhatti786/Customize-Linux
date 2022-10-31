@@ -1,4 +1,4 @@
-This is very file will help you to update your linux system like macBook
+This is very simple file that will help you to update your linux system like macBook
 
 Step 1: Download themes from gitgub and install one by one. Extract them and then in main folder there is bash file to install themes to run them type command: ./install.sh  (for each file seperatly)
       https://github.com/vinceliuice/WhiteSur-gtk-theme
