@@ -1,8 +1,8 @@
 This is very simple file that will help you to update your linux system like macBook
 
-Step 1: Download themes from github (from code download as zip) and install one by one. 
-      Extract them and then in main folder of each theme there is bash file to install themes. 
-      to run them type command: ./install.sh  (for each file seperatly)
+Step 1: Download themes from github (from code download as zip). Extract them and then in main folder of each theme there is bash file 
+      to install themes (install one by one).
+      to run install files type command: ./install.sh  (for each file seperatly)
       
       https://github.com/vinceliuice/WhiteSur-gtk-theme
       https://github.com/vinceliuice/WhiteSur-icon-theme
