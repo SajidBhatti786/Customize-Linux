@@ -1,19 +1,21 @@
 This is very simple file that will help you to update your linux system like macBook
 
-Step 1: Download themes from github (from code download as zip). Extract them and then in main folder of each theme there is bash file 
-      to install themes (install one by one).
-      to run install files type command: ./install.sh  (for each file seperatly)
+Step 1: Download themes from github (from code download as zip).
       
       https://github.com/vinceliuice/WhiteSur-gtk-theme
       https://github.com/vinceliuice/WhiteSur-icon-theme
       https://github.com/vinceliuice/WhiteSur-cursors
-      
-Step 2: Donwload the Google chrome browser to integrate with gnome
-Step 3: Install gnome extension on chrome Browser
-Step 4: Download the gnome.sh file in this repository run it with command: ./gnome.sh
 
-Step 5: Search for tweaks in your applications. Open tweaks and under Extensions tab enable user Theme. 
-Step 6:  In tweaks, in Appearance tab you have option to select installed themes. select the theme we have
+Step 2:  Extract the downloaded files. In all theme directories their would be a file install.sh to install themes.
+      Run the command: ./install.sh  (in each theme's directory seperately for all three theme files)
+      
+Step 3: Donwload the Google chrome browser to integrate with gnome
+Step 4: Install gnome extension on chrome Browser
+Step 5: Download the gnome.sh file in this repository run it with command: ./gnome.sh
+
+Step 6: Search for tweaks in your applications. Open tweaks and under Extensions tab enable user Theme. 
+        if option is not avialable visit  https://extensions.gnome.org/ to install user theme extension. then check back again in tweaks and enable it.
+Step 7:  In tweaks, in Appearance tab you have option to select installed themes. select the theme we have
         just installed corresponding to shell, cursor and icons themes.
         
 Finally, Your system is like macBook. If still not, Restart your system.
@@ -26,7 +28,7 @@ If you want to further customize your system. Access Gnome extensions (on Google
         
 
 *************Some famous and attractive gnome extesions   (Recommended) *************
-1. Dash to dock
+1. Dash to dock OR floating dock
 2. unity
 3. compiz alike magic lamp effect
 4. Gsconnect
